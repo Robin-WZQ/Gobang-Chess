@@ -1,0 +1,1 @@
+print("{:d}".format(0x7fffffff))
