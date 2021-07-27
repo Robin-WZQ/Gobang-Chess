@@ -146,7 +146,7 @@ sudo pip install h5py==2.9.0 Keras==2.3.1 numpy==1.20.3 opencv-python==4.1.1.26 
 
 这个是真的狗，我记得我在这边搞了15个小时左右才弄完，主要原因是官网上没有树莓派的whl文件，其他的根本用不了。有大佬说可以直接编译，但我怕搞崩。毕竟2000￥一个机械臂啊~
 
-pytorch的话记得是直接pip install的，tensorflow直接下载别人编译好的whl文件（在资源那一栏可以直接下载）
+pytorch的话记得是直接pip install的，tensorflow直接下载别人编译好的whl文件（如果找不到的话可以qq联系我，2485794339@qq.com，这里是tensorflow-2.0.0版本的）
 
 安装
 
