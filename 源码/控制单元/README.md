@@ -102,8 +102,8 @@ Socket通信对端口并发要求很严格，往往因为调试的时候启动�
 具体代码（别说你不会使Linux）：
 
 ```
-$ sudo lsof -i:22
-$ sudo kill -9 21227
+$ sudo lsof -i:xxx #你对应的端口号
+$ sudo kill -9 xxx #上图中PID所示进程（这里显示21227）
 ```
 
 ### 二、环境配置
